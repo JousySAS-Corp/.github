@@ -1,0 +1,2 @@
+# .github
+Jousy SAS
